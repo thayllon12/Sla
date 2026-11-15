@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Joguinho Space</string>
+    <string name="start">INICIAR</string>
+    <string name="restart">REINICIAR</string>
+    <string name="score_label">PONTOS</string>
+    <string name="lives_label">VIDAS</string>
+    <string name="game_over">FIM DE JOGO</string>
+    <string name="tap_to_start">TOQUE PARA COMECAR</string>
+    <string name="high_score">RECORDE</string>
+</resources>
